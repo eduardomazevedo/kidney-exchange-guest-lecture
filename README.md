@@ -1,6 +1,6 @@
-# Vohra
+# kidney-exchange-guest-lecture
 
-Project files for the kidney exchange guest lecture.
+Kidney exchange guest lecture slides, research notes, and plotting code.
 
 ## Structure
 
