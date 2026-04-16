@@ -20,19 +20,19 @@ format:
 
 ## An amazing invention
 
-![](images/kidney-exchange.webp){.hero-image}
+![](../images/kidney-exchange.webp){.hero-image}
 
 ## An amazing invention
 
-![](images/chain.png){.hero-image}
+![](../images/chain.png){.hero-image}
 
 ## An amazing invention
 
-![](images/chain-nyt.png){.hero-image}
+![](../images/chain-nyt.png){.hero-image}
 
 ## Thousands of lives per year
 
-![](images/kidney_waitlist_flows.png){.hero-image .wide-image}
+![](../images/kidney_waitlist_flows.png){.hero-image .wide-image}
 
 ## Thousands of Lives. Billions of Dollars.
 
@@ -56,14 +56,14 @@ The Staggering Scale of End-Stage Renal Disease (ESRD) in the U.S.
 
 ## Theory of almost everything
 
-![](images/good-bad-puzzle-piece.png){.hero-image}
+![](../images/good-bad-puzzle-piece.png){.hero-image}
 
 ## Theory of almost everything
 
 :::: {.columns}
 ::: {.column width="55%"}
 
-![](images/good-bad-puzzle-piece.png){.hero-image}
+![](../images/good-bad-puzzle-piece.png){.hero-image}
 
 :::
 ::: {.column width="45%"}
@@ -80,7 +80,7 @@ The Staggering Scale of End-Stage Renal Disease (ESRD) in the U.S.
 :::: {.columns}
 ::: {.column width="55%"}
 
-![](images/production-function.png){.hero-image}
+![](../images/production-function.png){.hero-image}
 
 :::
 ::: {.column width="45%"}
@@ -95,7 +95,7 @@ The Staggering Scale of End-Stage Renal Disease (ESRD) in the U.S.
 
 ## Algorithms are trivial: just don’t waste good pairs
 
-![](images/algorithm.png){.hero-image}
+![](../images/algorithm.png){.hero-image}
 
 ## Fragmentation is costly
 
@@ -110,7 +110,7 @@ The Staggering Scale of End-Stage Renal Disease (ESRD) in the U.S.
 :::
 ::: {.column width="55%"}
 
-![](images/inefficient-matches.png){.hero-image}
+![](../images/inefficient-matches.png){.hero-image}
 
 :::
 ::::

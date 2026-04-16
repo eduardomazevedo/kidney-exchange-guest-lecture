@@ -9,5 +9,8 @@ wheels/
 # Virtual environments
 .venv
 
+# OS files
+.DS_Store
+
 /.quarto/
 **/*.quarto_ipynb
